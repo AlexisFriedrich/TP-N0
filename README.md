@@ -1,16 +1,2 @@
 # TP-N0
 Alexis Friedrich k1091
-
-/* Hello world
-*Alexis Friedrich
-*04/04/2015
-*/
-
-#include <iostream>
-
-using namespace std;
-
-int main ()
-{
-	cout <<"si esto no funciona me voy a estudiar floricultura"<< endl;
-}
